@@ -1,7 +1,7 @@
 # pro8_Analyzer
 
 # video Explanation
-https://docs.google.com/document/d/1Hg6B68o0VA3k17VVIdfucjLiJHkm5qkPiboNl_MM9Fw/edit?usp=drive_link
+https://drive.google.com/file/d/1tiwgmjMrGMP0FT5UnW4bGqhLKEoeBIic/view?usp=sharing
 
 # NumPy Operations Project
 
